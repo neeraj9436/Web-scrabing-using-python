@@ -1,0 +1,8 @@
+requests
+bs4,BeautifulSoup
+html5lib
+cv2
+numpy
+PIL,Image
+pytesseract
+pytesseract
